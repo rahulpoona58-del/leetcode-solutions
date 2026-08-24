@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0279-perfect-squares) |
 ## Memoization
 |  |
 | ------- |
@@ -62,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
