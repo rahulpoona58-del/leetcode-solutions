@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0169-majority-element](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -76,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
