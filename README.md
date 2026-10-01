@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0268-missing-number) |
 ## Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
