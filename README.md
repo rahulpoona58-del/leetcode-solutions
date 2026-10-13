@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0268-missing-number) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/rahulpoona58-del/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
